@@ -8,11 +8,11 @@ Personal project by [Luis Escobar](https://github.com/Escobar-Luis) · March 202
 
 <br>
 
-<a href="media/callback-ai-walkthrough.mp4">
+<a href="https://escobar-luis.github.io/callback-ai-showcase/">
   <img src="media/preview.gif" alt="Callback AI, one run at 8x speed. Click for the full walkthrough with voice." width="860">
 </a>
 
-**[Watch the 110-second walkthrough](media/callback-ai-walkthrough.mp4)**
+**[Watch the 110-second walkthrough](https://escobar-luis.github.io/callback-ai-showcase/)**
 
 </div>
 
